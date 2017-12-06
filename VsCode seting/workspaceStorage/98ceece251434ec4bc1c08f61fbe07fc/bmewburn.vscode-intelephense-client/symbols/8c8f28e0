@@ -1,0 +1,1 @@
+{"uri":"file:///c%3A/phpStudy/PHPTutorial/WWW/10-24/03.manager/update.php","root":{"kind":0,"name":"","children":[{"kind":256,"name":"$updateId","location":[57,8,57,17]},{"kind":256,"name":"$link","location":[60,8,60,13]},{"kind":256,"name":"$sql","location":[63,8,63,12]},{"kind":256,"name":"$result","location":[66,8,66,15]},{"kind":256,"name":"$data","location":[69,8,69,13]}]}}

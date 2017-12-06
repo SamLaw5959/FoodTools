@@ -1,0 +1,1 @@
+{"uri":"file:///c%3A/phpStudy/PHPTutorial/WWW/10-24/03.manager/doDelete.php","root":{"kind":0,"name":"","children":[{"kind":256,"name":"$deleteId","location":[2,4,2,13]},{"kind":256,"name":"$link","location":[5,4,5,9]},{"kind":256,"name":"$sql","location":[8,4,8,8]},{"kind":256,"name":"$rowNum","location":[14,4,14,11]}]}}
